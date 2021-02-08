@@ -8,6 +8,7 @@ print(8==5)
 print(8!=5)
 print(8<5)
 print(8<=5)
+
 x=5
 print(x)
 print(x,'\n'*2)
